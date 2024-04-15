@@ -97,8 +97,8 @@
                         <div class="page-header__inner">
                             <h2 class="page-header__title">Contact Us</h2>
                             <ul class="thm-breadcrumb list-unstyled">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>

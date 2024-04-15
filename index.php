@@ -272,7 +272,7 @@
                             <div class="services-one__single">
                                 <div class="services-one__icon">
                                     <!-- <span class="icon-oven"></span> -->
-                                    <img id="ser1"src="assets/images/resources/dish1.jpg" alt="">
+                                    <img id="ser1"src="assets/images/resources/3.jpg" alt="">
                                 </div>
                                 <div class="services-one__title-box">
                                     <h4 id="mic"class="services-one__title">Dish Washer

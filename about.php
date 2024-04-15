@@ -74,8 +74,8 @@
                         <div class="page-header__inner">
                             <h2 class="page-header__title">About Us</h2>
                             <ul class="thm-breadcrumb list-unstyled">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="projects.html">About Us</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about.php">About Us</a></li>
                             </ul>
                         </div>
                     </div>

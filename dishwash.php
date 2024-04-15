@@ -76,7 +76,7 @@
                             <ul class="thm-breadcrumb list-unstyled">
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="#">Service</a></li>
-                                <li><a href="#">Dish Washer Services</a></li>
+                                <li><a href="dishwash.php">Dish Washer Services</a></li>
                             </ul>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                             <div class="about-three__img-box wow slideInRight" data-wow-delay="100ms"
                                 data-wow-duration="2500ms">
                                 <div class="about-three__img">
-                                    <img src="assets/images/resources/dish1.jpg" alt="">
+                                    <img src="assets/images/resources/3.jpg" alt="">
                                 </div>      
                             </div>
                         </div>

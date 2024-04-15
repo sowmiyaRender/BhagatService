@@ -76,7 +76,7 @@
                             <ul class="thm-breadcrumb list-unstyled">
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="#">Service</a></li>
-                                <li><a href="#">Chimney Services</a></li>
+                                <li><a href="chimney.php">Chimney Services</a></li>
                             </ul>
                         </div>
                     </div>
